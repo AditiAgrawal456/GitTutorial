@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E21B-45DC
+
+ Directory of C:\Users\hp\Desktop\GITFolder
+
+18-04-2020  00:04    <DIR>          .
+18-04-2020  00:04    <DIR>          ..
+18-04-2020  00:04                 0 git.txt
+               1 File(s)              0 bytes
+               2 Dir(s)      55,316,480 bytes free
